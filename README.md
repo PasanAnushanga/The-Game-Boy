@@ -44,9 +44,6 @@ A custom Game Boy clone built using an Arduino, ST7920 128x64 display, rotary en
 - **Positive (+)**: Connect to Arduino pin **5**
 - **Negative (-)**: Connect to Arduino GND
 
-### Wiring Diagram
-
-(Include an image of the circuit diagram here if possible)
 
 ## Code Explanation
 
